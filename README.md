@@ -14,3 +14,7 @@
 ## 开发环境
 
 当前工作目录位于 WSL `Ubuntu-E`：`/home/pc/project/NMES-Final`。开发时使用 WSL 内工具链；涉及 Python 时使用 uv 管理环境。
+
+
+## 合作者测试
+lxf
